@@ -1,0 +1,7 @@
+# Ignorar dados e artefatos gerados
+cmapss_data/
+*.h5
+*.joblib
+resultados.json
+.venv/
+__pycache__/
