@@ -1,4 +1,4 @@
-# TCC-2-
+# TCC-2-tcc-ia-manutencao-preditiva
 APLICAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA ENGENHARIA DE SOFTWARE PARA ANÁLISE DE CONFIABILIDADE E MANUTENÇÃO PREDITIVA
 
 Este repositório contém um experimento com o dataset NASA CMAPSS FD001 para manutenção preditiva.
